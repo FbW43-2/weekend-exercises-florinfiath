@@ -1,0 +1,41 @@
+.container {
+    background-color:white;
+    max-width: 840px;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin: 0 auto;
+}
+header{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-bottom:1px solid grey;
+}
+body {
+    background-color: white;
+    margin: 0 auto;
+     font-family: 'Ubuntu', sans-serif;
+}
+main >div {
+    width: 540px;
+    height: auto;
+    margin: 0 auto;
+    padding: 60px 60px 60px 60px;
+}
+.profile-pic {
+    border-radius: 50%;
+}
+h1 {
+   font-size: 30px;
+}
+footer,footer >.container {
+    background-color: blue;
+    color: white;
+}
+footer{
+    height: 140px;
+    padding-top: 70px;
+}
+.float-right {
+    float: right;
+    padding-top: 15px;
+}
