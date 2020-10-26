@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "../../Lessons"
+	},
+	{
+		"path": "../uib-box-model-2-florinfiath"
+	},
+	{
+		"path": "../uib-box-model-1-florinfiath"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "weekend-exercises-florinfiath"
+  }
+}

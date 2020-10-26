@@ -1,5 +1,4 @@
 .container {
-    background-color:white;
     max-width: 840px;
     padding-left: 60px;
     padding-right: 60px;
@@ -15,7 +14,7 @@ body {
     margin: 0 auto;
      font-family: 'Ubuntu', sans-serif;
 }
-main >div {
+main .container {
     width: 540px;
     height: auto;
     margin: 0 auto;
@@ -27,13 +26,11 @@ main >div {
 h1 {
    font-size: 30px;
 }
-footer,footer >.container {
-    background-color: blue;
-    color: white;
-}
 footer{
     height: 140px;
     padding-top: 70px;
+    background-color: blue;
+    color: white;
 }
 .float-right {
     float: right;
